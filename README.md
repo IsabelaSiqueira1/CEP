@@ -1,6 +1,6 @@
 ### Validações de Cep utilizando o webservice ViaCEP e a Biblioteca Caelum Stella Csharp
 
-Para avessar o webservice:https://viacep.com.br/  
+Para acessar o webservice:https://viacep.com.br/  
 Json que retornou do endereço procurado: viacep.com.br/ws/01001000/json/
 
 Na prática, a classe ViaCEP da biblioteca Caelum funciona internamente:
