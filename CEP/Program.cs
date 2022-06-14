@@ -15,7 +15,7 @@ namespace CEP
 
         {
             //Consumir dados de endereço em Json
-            string cep = "08152100";
+            string cep = "01001000";
             /*string result = GetEndereco(cep);
             Debug.WriteLine(result);*/
 
